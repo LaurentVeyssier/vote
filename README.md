@@ -216,7 +216,3 @@ windsurf-project/
 - All data is persisted in `votes.db`.
 - LLM list can be updated via `llms.py` and imported with `migrate_llms()`.
 - The app is cross-platform and works out-of-the-box with Python and Node.js.
-
----
-
-For any questions, check the code comments or open an issue!
