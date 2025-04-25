@@ -1,0 +1,9 @@
+installed packages using uv
+in frontend folder: npm install
+
+then
+from main folder
+uv run python -m uvicorn backend:app --reload --host 0.0.0.0 --port 8000
+
+then launch the front end
+in the fontend folder, npm run dev
